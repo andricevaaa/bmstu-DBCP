@@ -1,0 +1,59 @@
+1|ATEEZ|Zero: Fever Pt. 1|Thanxx|25|29-07-2020|10|0|KQ ENT.|South Korea
+2|ATEEZ|Zero: Fever Pt. 1|Inception|25|29-07-2020|10|0|KQ ENT.|South Korea
+3|ATEEZ|Zero: Fever Pt. 1|Diary|25|29-07-2020|10|0|KQ ENT.|South Korea
+4|ATEEZ|Zero: Fever Pt. 2|A|28|01-03-2021|7|3|KQ ENT.|South Korea
+5|ATEEZ|Zero: Fever Pt. 2|Z|28|01-03-2021|6|4|KQ ENT.|South Korea
+6|ATEEZ|Zero: Fever Pt. 2|Diary|28|01-03-2021|1|9|KQ ENT.|South Korea
+7|ATEEZ|Zero: Fever Pt. 3|A|30|01-07-2023|0|10|KQ ENT.|South Korea
+8|ATEEZ|Zero: Fever Pt. 3|Z|30|01-07-2023|0|10|KQ ENT.|South Korea
+9|ATEEZ|Zero: Fever Pt. 3|Diary|30|01-07-2023|0|10|KQ ENT.|South Korea
+10|EXO|Don’t Mess Up My Tempo|Allegro|26|02-11-2018|5|5|SM ENT.|South Korea
+11|EXO|Don’t Mess Up My Tempo|Moderato|26|02-11-2018|4|6|SM ENT.|South Korea
+12|EXO|Don’t Mess Up My Tempo|Andante|26|02-11-2018|6|4|SM ENT.|South Korea
+13|EXO|Countdown|null|35|31-01-2018|9|1|SM ENT.|Japan
+14|EXO|OBSESSION|EXO|31|27-11-2019|2|8|SM ENT.|South Korea
+15|EXO|OBSESSION|X-EXO|31|27-11-2019|2|8|SM ENT.|South Korea
+16|EXO-CBX|HEY MAMA|Chen|23|31-10-2016|6|4|SM ENT.|South Korea
+17|EXO-CBX|HEY MAMA|Xiumin|23|31-10-2016|4|6|SM ENT.|South Korea
+18|EXO-CBX|HEY MAMA|Baekhyun|23|31-10-2016|3|7|SM ENT.|South Korea
+19|EXO-CBX|Blooming Days|Blooming|31|10-08-2018|9|1|SM ENT.|South Korea
+20|EXO-CBX|Blooming Days|Days|31|10-08-2018|7|3|SM ENT.|South Korea
+21|EXO-CBX|Magic|Chen|40|09-05-2018|9|1|SM ENT.|Japan
+22|EXO-CBX|Magic|Xiumin|40|09-05-2018|10|0|SM ENT.|Japan
+23|EXO-CBX|Magic|Baekhyun|40|09-05-2018|7|3|SM ENT.|Japan
+24|CHEN|April, and a Flower|April|15|01-04-2019|5|5|SM ENT.|South Korea
+25|CHEN|April, and a Flower|Flower|15|01-04-2019|4|6|SM ENT.|South Korea
+26|CHEN|Dear My Dear|Dear|22|01-10-2019|4|6|SM ENT.|South Korea
+27|CHEN|Dear My Dear|My Dear|22|01-10-2019|1|9|SM ENT.|South Korea
+28|CHEN|Last Scene|Violet|27|01-07-2023|10|0|SM ENT.|South Korea
+29|CHEN|Last Scene|Grey|27|01-07-2023|10|0|SM ENT.|South Korea
+30|BAEKHYUN|City Lights|Day|22|10-07-2019|9|1|SM ENT.|South Korea
+31|BAEKHYUN|City Lights|Night|22|10-07-2019|10|0|SM ENT.|South Korea
+32|BAEKHYUN|Baekhyun|Alone|40|20-01-2021|10|0|SM ENT.|Japan
+33|BAEKHYUN|Baekhyun|Addicted|40|20-01-2021|2|8|SM ENT.|Japan
+34|BAEKHYUN|Baekhyun|Disappeared|40|20-01-2021|1|9|SM ENT.|Japan
+35|BAEKHYUN|Delight|Cinammon|24|25-05-2020|5|5|SM ENT.|South Korea
+36|BAEKHYUN|Delight|Honey|24|25-05-2020|2|8|SM ENT.|South Korea
+37|BAEKHYUN|Delight|Mint|24|25-05-2020|3|7|SM ENT.|South Korea
+38|AESPA|Savage|Hallucination Quest|30|05-10-2021|10|0|SM ENT.|South Korea
+39|AESPA|Savage|P.O.S|30|05-10-2021|9|1|SM ENT.|South Korea
+40|AESPA|Savage|Synk Dive|30|05-10-2021|4|6|SM ENT.|South Korea
+41|AESPA|Girls|Kwangya|27|08-07-2022|7|3|SM ENT.|South Korea
+42|AESPA|Girls|Real World|27|08-07-2022|7|3|SM ENT.|South Korea
+43|AESPA|My World|Welcome To My World|30|08-08-2023|10|0|SM ENT.|South Korea
+44|AESPA|My World|Spicy|30|08-08-2023|10|0|SM ENT.|South Korea
+45|GIRLS' GENERATION|Holiday Night|Holiday|25|07-08-2017|5|5|SM ENT.|South Korea
+46|GIRLS' GENERATION|Holiday Night|All Night|25|07-08-2017|6|4|SM ENT.|South Korea
+47|GIRLS' GENERATION|Forever 1|Normal|31|05-08-2022|9|1|SM ENT.|South Korea
+48|GIRLS' GENERATION|Forever 1|Deluxe|31|05-08-2022|3|7|SM ENT.|South Korea
+49|GIRLS' GENERATION|Love&Peace|null|45|05-08-2022|9|1|SM ENT.|Japan
+50|TAEYEON|My Voice|Fine|23|28-02-2017|5|5|SM ENT.|South Korea
+51|TAEYEON|My Voice|I Got Love|23|28-02-2017|5|5|SM ENT.|South Korea
+52|TAEYEON|Purpose|Purple|23|28-10-2019|5|5|SM ENT.|South Korea
+53|TAEYEON|Purpose|Beige|23|28-10-2019|4|6|SM ENT.|South Korea
+54|TAEYEON|INVU|Blue|28|28-06-2023|10|0|SM ENT.|South Korea
+55|TAEYEON|INVU|Beige|28|28-06-2023|5|5|SM ENT.|South Korea
+56|GIRLS' GENERATION - Oh!GG|Lil' Touch|null|35|05-07-2018|7|3|SM ENT.|South Korea
+57|CHUNGHA|Querencia|null|30|15-02-2021|8|2|MNH ENT.|South Korea
+58|CHUNGHA|Bare & Rare|null|30|15-07-2022|10|0|MNH ENT.|South Korea
+59|CHUNGHA|Flourishing|null|25|24-06-2019|5|5|MNH ENT.|South Kore

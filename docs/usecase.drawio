@@ -1,0 +1,157 @@
+<mxfile host="app.diagrams.net" modified="2023-05-31T19:03:18.091Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="jCWs0o8ZXzvvhBv5fz9U" version="21.3.6" type="device">
+  <diagram id="vNeGHsswX_2ydRDsQ9lT" name="Page-1">
+    <mxGraphModel dx="893" dy="960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ecuvbYBNx_Uaht5hqUlU-1" value="Зарегистрированный &lt;br&gt;покупатель" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="190" y="150" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HABaojzwpuREiPIzgGf9-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ecuvbYBNx_Uaht5hqUlU-2" target="HABaojzwpuREiPIzgGf9-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="500" />
+              <mxPoint x="300" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ecuvbYBNx_Uaht5hqUlU-2" value="Администратор&lt;span id=&quot;docs-internal-guid-5f59d4e0-7fff-7d63-4823-62fbd755ea4f&quot;&gt;&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="180" y="470" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HABaojzwpuREiPIzgGf9-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="KpZ7D37ulTLALfWw1-h7-3" target="HABaojzwpuREiPIzgGf9-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="440" />
+              <mxPoint x="560" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KpZ7D37ulTLALfWw1-h7-3" value="Менаджер&lt;span id=&quot;docs-internal-guid-5f59d4e0-7fff-7d63-4823-62fbd755ea4f&quot;&gt;&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="650" y="410" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HABaojzwpuREiPIzgGf9-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="KpZ7D37ulTLALfWw1-h7-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="500" />
+              <mxPoint x="560" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KpZ7D37ulTLALfWw1-h7-8" value="Удалить альбом" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HABaojzwpuREiPIzgGf9-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="HABaojzwpuREiPIzgGf9-1" target="HABaojzwpuREiPIzgGf9-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="120" />
+              <mxPoint x="610" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HABaojzwpuREiPIzgGf9-1" value="Незарегистрированный &lt;br&gt;пользователь&lt;span id=&quot;docs-internal-guid-5f59d4e0-7fff-7d63-4823-62fbd755ea4f&quot;&gt;&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="90" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HABaojzwpuREiPIzgGf9-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="HABaojzwpuREiPIzgGf9-3" target="ecuvbYBNx_Uaht5hqUlU-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="150" />
+              <mxPoint x="310" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HABaojzwpuREiPIzgGf9-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="HABaojzwpuREiPIzgGf9-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="150" />
+              <mxPoint x="560" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HABaojzwpuREiPIzgGf9-3" value="Посмотреть альбомы" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HABaojzwpuREiPIzgGf9-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="HABaojzwpuREiPIzgGf9-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="220" />
+              <mxPoint x="310" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HABaojzwpuREiPIzgGf9-7" value="Создать заказ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HABaojzwpuREiPIzgGf9-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="HABaojzwpuREiPIzgGf9-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="570" />
+              <mxPoint x="560" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HABaojzwpuREiPIzgGf9-13" value="Изменить данные альбома" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HABaojzwpuREiPIzgGf9-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="HABaojzwpuREiPIzgGf9-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="80" />
+              <mxPoint x="610" y="120" />
+              <mxPoint x="640" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HABaojzwpuREiPIzgGf9-15" value="Создать профиль" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HABaojzwpuREiPIzgGf9-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="HABaojzwpuREiPIzgGf9-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="290" />
+              <mxPoint x="310" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HABaojzwpuREiPIzgGf9-17" value="Изменить профиль" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HABaojzwpuREiPIzgGf9-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="HABaojzwpuREiPIzgGf9-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="360" />
+              <mxPoint x="310" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HABaojzwpuREiPIzgGf9-18" value="Удалить профиль" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HABaojzwpuREiPIzgGf9-27" value="Добавить альбом" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HABaojzwpuREiPIzgGf9-30" value="Удалить заказ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HABaojzwpuREiPIzgGf9-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="HABaojzwpuREiPIzgGf9-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210.0000000000001" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="640" />
+              <mxPoint x="300" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HABaojzwpuREiPIzgGf9-31" value="Отменить заказ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
